@@ -1,0 +1,4 @@
+//SCORONADO
+Buenas noches, al hacer ver los tutoriales de git y que puedan hacer su fork, por favor, agreguen texto a este documento y cuando ya podamos estar en línea para actualizar empezamos con el proyecto
+
+Gracias.
